@@ -1,0 +1,10 @@
+C:\Users\adimn\Desktop\代码区\Russia\Russia\bin\Debug\Russia.exe
+C:\Users\adimn\Desktop\代码区\Russia\Russia\bin\Debug\Russia.pdb
+C:\Users\adimn\Desktop\代码区\Russia\Russia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adimn\Desktop\代码区\Russia\Russia\obj\x86\Debug\Russia.MainForm.resources
+C:\Users\adimn\Desktop\代码区\Russia\Russia\obj\x86\Debug\Russia.Properties.Resources.resources
+C:\Users\adimn\Desktop\代码区\Russia\Russia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\adimn\Desktop\代码区\Russia\Russia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\adimn\Desktop\代码区\Russia\Russia\obj\x86\Debug\Russia.exe
+C:\Users\adimn\Desktop\代码区\Russia\Russia\obj\x86\Debug\Russia.pdb
+C:\Users\adimn\Desktop\代码区\Russia\Russia\obj\x86\Debug\Russia.ControlForm.resources
